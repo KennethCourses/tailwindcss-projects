@@ -1,7 +1,7 @@
 const App = () => {
 
   return (
-    <div>Hello World!</div>
+    <h1 className='text-3xl font-bold'>Hello World With Tailwind CSS!</h1>
   )
 }
 
